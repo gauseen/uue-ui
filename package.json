@@ -1,7 +1,7 @@
 {
-  "name": "uue-ui",
+  "name": "vui",
   "version": "0.0.1",
-  "description": "vue-ui vue ui uue-ui",
+  "description": "vue-ui vue ui vui",
   "main": "index.js",
   "directories": {
     "lib": "lib"
@@ -14,7 +14,7 @@
     "vue-ui",
     "vue",
     "ui",
-    "uue-ui"
+    "vui"
   ],
   "author": "gauseen",
   "license": "ISC",

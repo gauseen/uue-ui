@@ -1,12 +1,12 @@
 import Vue from 'vue'
 import Router from 'vue-router'
-import Uueui from 'src/index.js'
+import Vui from 'src/index.js'
 
 import App from './app.vue'
 import RouterConfig from './router'
 
 Vue.use(Router)
-Vue.use(Uueui)
+Vue.use(Vui)
 
 var vm = new Vue({
 	el: '#app',

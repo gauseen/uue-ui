@@ -5,15 +5,15 @@ const components = {
 	Header,
 }
 
-const uue = {
+const vui = {
 	...components,
 }
 
 const install = function (Vue, opt = {}) {
 	if (install.installed) return
 
-	Object.keys(uue).forEach(key => {
-		Vue.component(key, uue[key])
+	Object.keys(vui).forEach(key => {
+		Vue.component(key, vui[key])
 	})
 }
 
